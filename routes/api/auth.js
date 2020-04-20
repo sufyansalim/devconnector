@@ -18,7 +18,7 @@ router.get("/", auth, async (req, res) => {
   }
 });
 
-//Authicate use and get toen
+//Authicate use and get token
 
 router.post(
   "/",
